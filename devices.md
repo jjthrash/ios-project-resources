@@ -27,3 +27,9 @@ From: http://stackoverflow.com/a/11197770
 @"iPad4,4" on 2nd Generation iPad Mini - Wifi
 @"iPad4,5" on 2nd Generation iPad Mini - Cellular
 ```
+
+## 64-bit devices
+
+- iPad4,[1,2,4,5]
+- iPhone6,[1,2]
+- No iPod Touches are 64-bit
