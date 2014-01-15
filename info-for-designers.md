@@ -1,8 +1,51 @@
 ## Application images
 
-*TODO*
+The application includes a number of resources that are displayed by the OS
+rather than the application itself. Most of these are required for submission
+to the App Store.
 
-## Raster images
+All must be PNG format.
+
+### Splash Screen/Launch Image
+
+Shown while the application is loading.
+
+- iPhone, 320x480 (not supported by iOS7)
+- iPhone Retina, 640x960
+- iPhone Retina 4-inch, 640x1136
+- iPad Portrait, 768x1024 (includes iPad mini)
+- iPad Landscape, 1024x768 (includes iPad mini)
+- iPad Retina Portrait, 1536x2048
+- iPad Retina Landscape, 2048x1536
+
+### Application Icon
+
+Shown on the home screen.
+
+- iPhone, 60x60 (not supported by iOS7)
+- iPhone Retina, 120x120
+- iPad, 76x76
+- iPad Retina, 152x152
+
+### Spotlight Icon
+
+Shown while searching for the application.
+
+- iPhone, 40x40 (not supported by iOS7)
+- iPhone Retina, 80x80
+- iPad, 29x29
+- iPad Retina, 58x58
+
+### Settings Icon
+
+Shown in the settings application, if the application is configured for it.
+
+- iPhone, 29x29 (not supported by iOS7)
+- iPhone Retina, 58x58
+- iPad, 29x29
+- iPad Retina, 58x58
+
+## In-Application Raster Images
 
 ### Supporting Retina
 
