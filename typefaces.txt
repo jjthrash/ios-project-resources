@@ -1,4 +1,12 @@
-As of October 2013
+As of October 2013, generated with:
+```Objective-C
+    for (NSString *familyName in [UIFont familyNames]) {
+        NSLog(@"\nFamily: %@", familyName);
+        for (NSString *fontName in [UIFont fontNamesForFamilyName:familyName]) {
+            NSLog(@"Font: %@", fontName);
+        }
+    }
+```
 
 Family: Academy Engraved LET
 Font: AcademyEngravedLetPlain
